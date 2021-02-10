@@ -1,0 +1,31 @@
+{
+  "name": "advanced-redux-practice-2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "react": "*",
+    "react-dom": "*",
+    "react-modal": "^1.7.7",
+    "react-redux": "*",
+    "redux": "*",
+    "redux-thunk": "^2.3.0",
+    "uuid": "3.3.3",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "react-scripts": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
